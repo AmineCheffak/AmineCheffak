@@ -20,6 +20,8 @@ I’m Amine Cheffak, a passionate Full-Stack Developer with experience in buildi
   <a href="https://php.com" target="_blank" title="php"><img src="https://skillicons.dev/icons?i=php&theme=dark" alt="php"></a>
   <a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank" title="AI Agents"><img src="https://skillicons.dev/icons?i=python&theme=dark" alt="python"></a>
   <a href="https://www.docker.com" target="_blank" title="Docker"><img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker"></a>
+  <a href="https://www.docker.com" target="_blank" title="laravel"><img src="https://skillicons.dev/icons?i=laravel&theme=dark" alt="laravel"></a>
+
 </div>
 
 ### 📫 Connect with Me
